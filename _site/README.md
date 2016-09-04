@@ -2,8 +2,11 @@
 
 If you are looking at this page in GitHub, you will see a number of *html* files which comprise each week's presentation. These are actually **markdown** files and not html. Markdown is great, if you want to look at the slides as raw text and also see version changes. But if you are hoping to view them in presentation mode, you need to visit the web view accessible from links below.
 
-[Introduction](https://ub-idia640-2016.github.io/slides/week01.html) - What's this class about?
+[Introduction](https://ub-idia640-2016.github.io/slides/week01.html) - What's this class about? ([slide links](#week1-slide-links))
 
+[HCI Research Methodologies ](https://ub-idia640-2016.github.io/slides/week02.html) - Covers a range of methodologies, but focuses on how to read scientific papers. ([slide links](#week2-slide-links))
+
+<a name="week1-slide-links"></a>
 Week one slide links:
 
 - [Darkpatterns.org](https://darkpatterns.org) - Consider differences between coercion, manipulation, and persuasion
@@ -16,5 +19,9 @@ Week one slide links:
 - xkcd - A webcomic of romance, sarcasm, math, and language.
 
  ![http://imgs.xkcd.com/comics/academia_vs_business.png](http://imgs.xkcd.com/comics/academia_vs_business.png)
+
+<a name="week2-slide-links"></a>
+ Week two slide links:
+
 
 If you are interested in setting up your own slideshows on GitHub, it's not difficult and only requires a bit of knowledge of markdown and html. Check back here, and I'll post some material to help you get started.
