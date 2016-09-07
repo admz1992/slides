@@ -120,7 +120,7 @@
   </head>
   <body>
     <textarea id="source">
-
+name: inverse
 layout: true
 class: center, middle, inverse
 ---
@@ -128,7 +128,7 @@ class: center, middle, inverse
 7 September 2016
 ---
 layout: false
-# Review: HCI Methodologies
+# Last week: HCI methodologies
 
 Primary methodologies include:
 
@@ -136,11 +136,333 @@ Primary methodologies include:
 - Survey
 - Controlled experimentation
 
-We will look at each, but focus on hypothesis testing.
-- Measure alternative designs in a very precise way.
-- Much foundational work has been conducted using experimental methods.
+We will look at each, but focus on hypothesis testing this week.
+---
+# Today's outline
+
+- **Motivation**
+- Objectives
+- Controlled Experimentation
+- Critical Review
+---
+
+layout: true
+class: center, middle, inverse
+---
+# Why do we need to know this stuff?
+
 
 ---
+layout: false
+# Some Background
+
+## Scientists are people
+- They are inquisitive, but subject to the same biases as the rest of us.
+- They work within a *paradigm*.
+- Scientific observations are framed within a given paradigm.
+
+## Science is social (and political)
+
+- Pressure from "authorities" and peers (within a paradigm)
+- Need for grants, publications, etc.
+- Media hype
+
+???
+Paradigm - A model of reality. Concepts, theories, methodologies, conventions
+
+Thomas Kuhn (Structure of Scientific Revolutions) - "Normal science is about
+accumulating knowledge". Sometimes technological (or societal) advances make it
+possible to observe or measure phenomena that were not measurable before. In such cases,
+there may be anomalous observations that cause a shift to a new paradigm.
+
+But its subjective and political. Paradigms are backed by those with prominent
+reputations or within the majority. We will look at this sort of influence later in the
+semester.
+
+---
+class: center, middle, inverse
+#So what?
+
+???
+
+---
+
+# There's a lot of science in design... and in our lives.
+
+.pull-left[
+-  "Normal" science
+  - Publishing favors "new" and interesting work - claims may be over-stated
+  - [Results may not be reproduceable](http://arstechnica.com/science/2016/03/social-science-reproducibility-not-great-but-not-as-bad-as-reported/)
+  - [Writing may be "opaque"](http://www.psychologicalscience.org/index.php/convention/the-curse-of-knowledge-pinker-describes-a-key-cause-of-bad-writing.html)
+
+- "Sketchy" science
+  - Dodgy claims
+  - Journalistic error - and ["bad science" reporting effect](http://www.chronicle.com/blogs/linguafranca/2012/03/15/bad-science-reporting-effect/)
+  - "Gladwellian gap"
+]
+
+.pull-right[
+!["Gladwellian gap"](images/gap.jpg)
+
+#### *We need to understand conventions scientists use to communicate their findings.*
+
+]
+???
+---
+class: center, middle, inverse
+# "Dodgy claims"
+<br>
+<iframe src="https://embed-ssl.ted.com/talks/ben_goldacre_battling_bad_science.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+---
+# Journalistic Error
+
+[Boston Globe: Oct 20, 2015](https://www.bostonglobe.com/news/politics/2015/10/20/donald-trump-and-ben-carson-speak-grade-school-level-that-today-voters-can-quickly-grasp/LUCBY6uwQAxiLvvXbVTSUN/story.html)
+
+The Globe reviewed the language used by 19 presidential candidates, Democrats and Republicans, in speeches announcing their campaigns for the 2016 presidential election. The review, using a common algorithm called the **Flesch-Kincaid readability test** that crunches word choice and sentence structure and spits out grade-level rankings, produced some striking results.
+
+The Republican candidates — like Trump — who are speaking at a level easily understood by people at the lower end of the education spectrum are outperforming their highfalutin opponents in the polls. Simpler language resonates with a broader swath of voters in an era of 140-character Twitter tweets and 10-second television sound bites, say specialists on political speech.
+
+.red[Does Flesch-Kincaid apply?? NO. It was designed for written text and not speech. (It has other flaws, as well. See punctution example on next page.)]
+
+???
+
+
+---
+# "Flesch Kincaid"
+
+It’s coming from more than Mexico. It’s coming from all over South and Latin America. And it’s coming probably — probably — from the Middle East. But we don’t know. Because we have no protection and we have no competence, we don’t know what’s happening. And it’s got to stop and it’s got to stop fast. [Grade level 4.4]
+
+It’s coming from more than Mexico, it’s coming from all over South and Latin America, and it’s coming probably — probably — from the Middle East. But we don’t know, because we have no protection and we have no competence, we don’t know what’s happening. And it’s got to stop and it’s got to stop fast. [Grade level 8.5]
+
+It’s coming from more than Mexico, it’s coming from all over South and Latin America, and it’s coming probably — probably — from the Middle East; but we don’t know, because we have no protection and we have no competence, we don’t know what’s happening. And it’s got to stop and it’s got to stop fast. [Grade level 12.5]
+
+Credit: [LanguageLog Blog](http://languagelog.ldc.upenn.edu/nll/?p=21847)
+---
+# "Gladwellian gap"
+
+.pull-left[
+- Malcolm Gladwell hugely **influential** - perhaps, more so, than the scientists he reports on.
+- Alternates between reports on scientific claims and rhetorical language:
+ - "If you take away the gift of reading, you create the gift of listening."
+ - Reader-writer's take-away: "Gladwell proves that not only do many successful people have dyslexia, but that they have become successful in large part because of having to deal with their difficulty."
+
+Observations from [Chabris, Slate Magazine, Oct 2013](http://www.slate.com/articles/health_and_science/science/2013/10/malcolm_gladwell_critique_david_and_goliath_misrepresents_the_science.html)
+]
+
+.pull-right[
+![images/DavidAndGoliath.jpg](images/DavidAndGoliath.jpg)
+
+Check footnotes and follow links to sources!
+
+
+]
+???
+
+“I am a story-teller, and I look to academic research … for ways of augmenting story-telling. The reason I don’t do things their way is because their way has a cost: it makes their writing inaccessible. If you are someone who has as their goal ... to reach a lay audience ... you can't do it their way.”
+
+"In his Telegraph interview, Gladwell again played down the seriousness of his work: "The mistake is to think these books are ends in themselves. My books are gateway drugs—they lead you to the hard stuff." And David and Goliath does cite scholarly works, books and journal articles, and journalism, in its footnotes and endnotes. But I wonder how many readers will follow those links, as compared to the number who will take its categorical claims at face value. And of those that do follow the links, how many will realize that many of the most important links are missing?"
+---
+# Outline
+
+- Motivation
+- **Objectives**
+- Controlled Experimentation
+- Critical Review
+---
+# Objectives
+
+- Learn to be open-minded, but skeptical. Question what you read.
+
+- Recognize where to find -- and how to interpret -- key information in a scientific article:
+ - Central research question
+ - Hypothesis
+ - Research design
+ - Conditions and variables
+ - Results/Key findings
+
+- Recognize key differences between experimental and non-experimental research designs.
+
+- Recognize where potential problems may occur.
+
+???
+
+---
+# Today's outline
+
+- Motivation
+- Objectives
+- **Controlled Experimentation**
+- Critical Review
+---
+# Some Dichotomies
+
+- Lab vs field
+- Participant report vs. researcher observation
+- Quantitative vs qualitative
+
+.footnote[.red.bold[*] Extracted from Gliner, Morgan & Leech (2011) p. 11]
+
+???
+
+- We're focusing on the quantitative
+- Both qualitative and quantitative may be interested in using both objective and subjective data. But, generally, quantitative studies focus on structured data while qualitative studies focus on more open-ended questions.
+
+---
+# HCI research methods (deeper look)
+
+.center[![:scale 100%](images/hci-research-methods.png)
+ ]
+
+.footnote[.red.bold[*] Inserted image from Gliner, Morgan & Leech (2011) p. 11]
+
+???
+---
+# Randomized experimental
+
+.center[![:scale 80%](images/experimental.png)
+ ]
+
+(For quasi-experimental, no random groups are assigned. For example, two university classes are given two different exam types.)
+---
+# Non experimental
+
+.center[![:scale 90%](images/non-experimental.png)
+ ]
+
+---
+# Back to the overview
+
+.center[![:scale 100%](images/research-overview.png)
+ ]
+
+---
+# Structure of research
+
+.center[![:scale 60%](images/research-study.png)
+ ]
+
+???
+
+- Mature conventions
+- Papers follow well-defined structure
+---
+# Research question
+
+- Statement about the relationship between two or more variables
+ - Should be stated clearly and unambiguously
+ - Should fill a gap in knowledge
+ - Should be testable
+ - Should be ethical
+
+.center[![:scale 60%](images/research-goals.png)
+ ]
+
+---
+# What if the question is very broad?
+
+.center[![:scale 60%](images/broad-research.png)
+ ]
+
+---
+# Study hypothesis
+
+- Re-statement of the research question in *operational* terms
+ - The variables and thing being measured
+ - Example, "To **measure extreme response bias**, we counted **the number of times respondents provided either the highest or lowest response option (1 or 5) for both questionnaire types for all items**."
+ -
+
+ .center[![:scale 60%](images/variables.png)
+  ]
+
+---
+# What is a null hypothesis?
+.pull-left[
+- In statistical studies, this is the hypothesis that there is no difference between groups.
+- It's possible, that your study experiment does not explicitly call out a hypothesis (as in the SUS example).
+  - NULL HYPOTHESIS: "There is **no difference** in extreme response bias between normal SUS and positive SUS."
+- In this article, this seemed to hold.
+
+.red[IF YOU ARE STRUGGLING, EMAIL ME - do the critical review over the weekend so I have time to assist.]
+]
+.pull-right[![:scale 100%](images/null-hypothesis.jpg)
+]
+---
+# Research Approach / Design
+
+- Experimental vs. Non-Experimental
+- Hopefully, your paper is more explicit. Report a more specific approach, if given.
+
+---
+# Conditions & variables
+### Conditions
+Conditions under which groups are compared. (e.g., Positive SUS and normal SUS)
+### Variables
+Characteristics of the study or participants that vary
+- **Independent** - Presumed cause
+  - Active - The intervention (e.g., positive/normal SUS).
+  - Attribute - Property of a person such as gender or age.
+
+- **Dependent** - outcome
+- **Extraneous** - Variables that need to be ruled out. For example, minor visual differences in cross-browser display.
+  - .red[Confounding] - interacts with both the IV and DV.
+
+???
+When there are more than two IVs, the design is said to be factorial.
+
+---
+# Confounding variable
+
+.center[![:scale 100%](images/confounding.png)
+ ]
+
+---
+# Common sense critique
+
+- There are of things we did not go into (e.g., sampling, statistics) - so don't sweat over understanding these parts.
+
+- Use your common sense:
+ - Do you think the study looked at enough people?
+ - How we subjects chosen? (Are they really random? Are they representational of the population in question?)
+ - Does the study measure something valid with respect to its research question? (e.g., if you are assessing happiness from tweets, does the use of "positive" words really reflect happiness?; internal validity)
+ - Can you imagine any confounding variables they didn't mention?
+ - Do you think results would hold outside of laboratory conditions? (external validity)
+
+---
+# Today's outline
+
+- Motivation
+- Objectives
+- Controlled Experimentation
+- **Critical Review**
+
+---
+
+# Critical Review
+
+Summary
+- What is the central research question addressed?
+- For each experiment, summarize (briefly!):
+ - Hypothesis
+ - Research design - Is it experimental or non-experimental? Did the authors provide more detail? (E.g., specific approach)
+ - Conditions & variables
+ - Findings
+
+Critical thinking (respond to 5)
+ - Does the paper seem significant or not? Why or why not?
+ - Does the methodology seem sound or suspect? In what sense?
+ - Can you think of confounding variables that the author did not discuss?
+ - Does this paper get its message across clearly? How or how not?
+ - Does it change your thoughts or has it introduced new ideas to you? In what way?
+ - Do you think the study is reproduce-able (like an exact recipe) or that the author left out too many details? What do you think needed more explanation?
+ - Can you imagine how insights from this paper might be used in design?
+
+???
+
+- Record what you read
+- Some authors are not clear - good point for critique... but at least give an example, if you can
+---
+class: center, middle, inverse
+# End
     </textarea>
      <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js">
     <script>
