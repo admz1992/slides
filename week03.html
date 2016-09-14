@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="keywords" content="remark,remarkjs,markdown,slideshow,presentation" />
+    <meta name="description" content="A simple, in-browser, markdown-driven slideshow tool." />
+    <title>Remark</title>
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif);
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+      body {
+        font-family: 'Droid Serif';
+      }
+      h1, h2, h3 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: 400;
+        margin-bottom: 0;
+      }
+      .remark-slide-content h1 { font-size: 3em; }
+      .remark-slide-content h2 { font-size: 2em; }
+      .remark-slide-content h3 { font-size: 1.6em; }
+      .footnote {
+        position: absolute;
+        bottom: 3em;
+      }
+      li p { line-height: 1.25em; }
+      .red { color: #fa0000; }
+      .large { font-size: 2em; }
+      a, a > code {
+        color: rgb(249, 38, 114);
+        text-decoration: none;
+      }
+      code {
+        background: #e7e8e2;
+        border-radius: 5px;
+      }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+      .remark-code-line-highlighted     { background-color: #373832; }
+      .pull-left {
+        float: left;
+        width: 47%;
+      }
+      .pull-right {
+        float: right;
+        width: 47%;
+      }
+      .pull-right ~ p {
+        clear: both;
+      }
+      #slideshow .slide .content code {
+        font-size: 0.8em;
+      }
+      #slideshow .slide .content pre code {
+        font-size: 0.9em;
+        padding: 15px;
+      }
+      .inverse {
+        background: #272822;
+        color: #777872;
+        text-shadow: 0 0 20px #333;
+      }
+      .inverse h1, .inverse h2 {
+        color: #f3f3f3;
+        line-height: 0.8em;
+      }
+
+      /* Slide-specific styling */
+      #slide-inverse .footnote {
+        bottom: 12px;
+        left: 20px;
+      }
+      #slide-how .slides {
+        font-size: 0.9em;
+        position: absolute;
+        top:  151px;
+        right: 140px;
+      }
+      #slide-how .slides h3 {
+        margin-top: 0.2em;
+      }
+      #slide-how .slides .first, #slide-how .slides .second {
+        padding: 1px 20px;
+        height: 90px;
+        width: 120px;
+        -moz-box-shadow: 0 0 10px #777;
+        -webkit-box-shadow: 0 0 10px #777;
+        box-shadow: 0 0 10px #777;
+      }
+      #slide-how .slides .first {
+        background: #fff;
+        position: absolute;
+        top: 20%;
+        left: 20%;
+        z-index: 1;
+      }
+      #slide-how .slides .second {
+        position: relative;
+        background: #fff;
+        z-index: 0;
+      }
+
+      /* Two-column layout */
+      .left-column {
+        color: #777;
+        width: 20%;
+        height: 92%;
+        float: left;
+      }
+        .left-column h2:last-of-type, .left-column h3:last-child {
+          color: #000;
+        }
+      .right-column {
+        width: 75%;
+        float: right;
+        padding-top: 1em;
+      }
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+name: inverse
+layout: true
+class: center, middle, inverse
+---
+#HCI Research Methods (2)
+14 September 2016
+---
+layout: false
+# Last week: Experimentation
+### Or... "Crash course on how to read a science paper"
+
+- Review
+- How did it go?
+- Paper example "When designing usability questionnaires does it hurt to be positive?"
+- If we have time, [Susan Etlinger](http://www.ted.com/speakers/susan_etlinger)  - smart, well-considered, ethical use of data
+---
+# Review
+
+.center[![:scale 100%](images/research-overview.png)
+ ]
+
+
+???
+We started with Experimentation because you needed sufficient knowledge to read scientific papers. When and why you would choose to conduct an experiment?
+
+ - You want to compare performance (e.g., efficiency, effectiveness between groups under varying conditions)
+ - You are interested in discovering how things work and are looking for causal relations between variables.
+
+We looked briefly at potential problems with the design experiments - but we put aside problems with sampling and statistical analysis.
+
+Structure of paper gives insight into how to assess potential problems. Design, Methods, discussion
+
+---
+# [Example](https://drive.google.com/open?id=0B3SsgcqV1xSSVjJqak03Mm1xX2c)
+
+.center[![:scale 100%](images/paper-example.png)
+ ]
+---
+# Smart, well-considered, ethical use of data
+<center>
+<iframe src="https://embed-ssl.ted.com/talks/susan_etlinger_what_do_we_do_with_all_this_big_data.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+.center[Fundamentally, we use experimentation to answer hard questions -- big data is increasingly important in such debates.]
+---
+# Today's outline
+
+- Survey Methodology
+- Ethnography & Ethnomethodolgy
+
+---
+
+# Comparing three research traditions
+
+- **Empirical** - Evidence acquired through observation and experimentation to justify a belief or claim. (Contrasts with view that reason alone is sufficient evidence.)
+  - Experiments
+  - Some Surveys
+  - Ethnography
+- **Analytical** - In sociology/anthropology - detailed portrayal of a sociocultural phenomenon. Includes frames (e.g., restaurant, shop) and concepts.
+  - Ethnography
+- ** Generative** - Potential for identifying new experiences and phenomena. Important while trying to understand a problem.
+  - Ethnography
+---
+# Objectives
+
+1. Characterize the survey process from both a design and quality perspective
+2. Learn about how and why errors arise in surveys
+3. Explore examples of analytical and generative practice in ethnology and conversation analysis
+---
+# Comparing survey methodology to experimentation
+
+#### Differences
+- Surveys can't explicitly control IVs and DVs
+- Surveys based on participant responses rather than researcher observations
+- Surveys may potentially reach a larger population
+- Surveys may be descriptive studies useful for understanding attitudes or preferences
+
+#### Similarity
+
+- A survey can be a quantitative (statistical) analysis that explores relationships between variables
+
+???
+Strengths: large #s, may cost little to develop and administer. Elicitation of attitudes.
+
+Weaknesses: Biases from lack of response, or nature and accuracy. Intentional mis-reporting, mis-understanding, poor recall, difficulty with self-assessment.
+
+Verbal surveys - interviews
+Written surveys - questionnaires
+---
+
+class: inverse, center, middle
+# As in an experiment, start with the research question
+
+???
+ Written or verbal?
+---
+# Surveys are inherently inferential
+.center[![:scale 100%](images/survey-inference.png)
+ ]
+---
+
+# Survey process
+#### Two steps: sampling plan and procedure
+.center[![:scale 50%](images/survey-research.jpg)
+ ]
+---
+# Survey Design
+.center[![:scale 75%](images/survey-design.png)
+ ]
+---
+# Survey Measurement
+.center[![:scale 70%](images/survey-measurement.png)
+ ]
+---
+# Examples of question (response) biases
+
+1. Effect of wording - consistent with educational level of intended respondants.
+
+2. Sensitivity - Respondants must be willing to answer
+
+3. Question complexity and clarity - Avoid double negatives and long questions, jargon, acronyms, etc.
+
+4. Tone - Avoid biased wording or wording that evokes an emotional response.
+---
+# Examples of biased contexts
+1. Order of questions
+2. Contrast effects of questions immediately preceding
+3. Length of survey (questions given more attention at beginning rather than later)
+4. Fowler (1995) notes respondants more likely to use rankings on the left side of a continuum, regardless of whether it is decreasing or increasing
+---
+# References
+
+Glasow, P. A. (2005). Fundamentals of survey research methodology. Retrieved January, 18, 2013.
+
+Groves, R. (2004). Survey errors and survey costs. John Wiley & Sons.
+
+Groves, R., Fowler Jr, F., Couper, M., Lepkowski, J., Singer, E., & Tourangeau, R. (2009). Survey methodology 2nd ed. John Wiley & Sons.
+
+Fowler, J., Floyd J. (1995). Improving survey questions: Design and evaluation (Vol 38). Sage Publications.
+---
+class: middle, center, inverse
+# What is ethnography?
+The practice of observing people in their natural environments
+---
+# Why should you as a designer care?
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nV0jY5VgymI" frameborder="0" allowfullscreen></iframe>
+
+Ellen Isaacs
+
+???
+More than market research - focus is on understanding what matters to people.
+
+Lucy Suchman influenced technologists into thinking that researchers should watch people using technology
+
+May involve different methodologies. Most common is participant observation where the ethnographer is immersed in a culture as an active participant.
+---
+class: middle, center, inverse
+# Ethnomethodology
+... is concerned with studying situated activities/practices (or methods) of groups in everyday life. The focus is on how groups of people understand and produce a social order
+
+???
+Bottom-up view of sociology. Discovery-based observation.
+---
+# Conversation Analysis -- emerged from ethnomethodolgy
+
+#### Practice and methods for studying talk and social interaction.
+
+- There are norms in conversation where certain kinds of activities should happen.
+- Interaction is structured.
+- CA uses naturally occurring interactions to include both verbal and non-verbal conduct.
+
+From Sacks, 1992, vol. I: 3):
+
+A. This is Mr. Smith, may I help you?
+
+.red[B: I can't hear you]
+
+A. This is Mr. Smith
+
+.red[B: Smith]
+
+???
+
+"Talk" is quite systematic. Language has certain regularities.
+
+Conversation analysts find patterns that can be formulated as normative behavior. They do so by gathering many instances of talk across many similar situations.
+
+This situated research is useful for design.
+
+Main concepts and findings:
+- turn-taking organization
+- organization of action/sequences
+- preference organization
+- repair
+- topic structure
+- storytelling
+- openings and closings
+- small talk
+---
+# Connection between CA and "nudge"
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e-QbxjXDwXU" frameborder="0" allowfullscreen></iframe>
+
+*"Small changes in environments that can lead to big changes in behavior"*
+
+???
+CA analysts not interested in why. But how it happens and why it happens. Many hundreds of conversations. People think they know about talk, until they look closely.
+---
+# Ethnographers in the Commercial World
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ORkl15ogwOA" frameborder="0" allowfullscreen></iframe>
+
+What can ethnology teach us in the commercial world? Implications for design (design ethnography)
+
+---
+class: center, middle, inverse
+# End
+    </textarea>
+     <script src="assets/remark-latest.min.js">
+    <script>
+      var hljs = remark.highlighter.engine;
+    </script>
+    <script src="assets/remark.language.js"></script>
+    <script>
+      remark.macros.scale = function(percentage) {
+        var url = this;
+        return '<img src="' + url + '" style="width: ' + percentage + '" />';
+      }
+    </script>
+
+    <script>
+      var slideshow = remark.create({
+          highlightStyle: 'monokai',
+          highlightLanguage: 'remark',
+          click: true,
+          highlightLines: true
+        }) ;
+    </script>
+  </body>
+</html>
