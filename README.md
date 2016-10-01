@@ -40,10 +40,10 @@ Week one slide links:
 
 Not mentioned, but a [great story of how three MIT students fooled the world of scientific journals](http://news.mit.edu/2015/how-three-mit-students-fooled-scientific-journals-0414) by creating software that randomly generated, nonsense papers, one of which was subsequently published in conference with "loose standards".
 
- <a name="week3-slide-links"></a>
-  Week three slide links:
+<a name="week3-slide-links"></a>
+Week three slide links:
   
-  - [Susan Ettlinger](http://www.ted.com/speakers/susan_etlinger) - Smart, ethical, well-considered data. Interesting reports available from [her website](https://susanetlinger.com/research-reports/)
+- [Susan Ettlinger](http://www.ted.com/speakers/susan_etlinger) - Smart, ethical, well-considered data. Interesting reports available from [her website](https://susanetlinger.com/research-reports/)
 - [Ellen Isaacs](https://www.youtube.com/watch?v=nV0jY5VgymI) on Ethnology
 - [Elizabeth Stokoe](https://www.youtube.com/watch?v=e-QbxjXDwXU) and the connection of Conversational Analysis to "Nudge"
 - [Paul Dourish](https://www.youtube.com/watch?v=ORkl15ogwOA) on what ethnographers can teach us in the real world.
@@ -52,10 +52,10 @@ Not mentioned, but relevant:
 
 - [Brief intro to experiments](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/experimental-methods-in-human-computer-interaction) from http://interaction-design.org
 
-   <a name="week4-slide-links"></a>
-  Week four slide links:
+<a name="week4-slide-links"></a>
+Week four slide links:
   
-  - Dale Purvis book - "[Brains: How they seem to work](https://www.amazon.com/Brains-They-Seem-Press-Science/dp/0137055099)"
+- Dale Purvis book - "[Brains: How they seem to work](https://www.amazon.com/Brains-They-Seem-Press-Science/dp/0137055099)"
 - [Monkey Business illusion](https://www.youtube.com/embed/IGQmdoK_ZfY)
 - [What cats taught us about perception](https://www.youtube.com/embed/RPv0a9ftu6Y)
 - [Hubel and Wiesel cat experiment](https://www.youtube.com/watch?v=IOHayh06LJ4)
@@ -70,19 +70,19 @@ Not mentioned, but relevant:
 - [Eye movements and mental imagery](https://www.youtube.com/embed/OTEa1jwJbqU) (fast forward to about 6 mins)
 - [VS Ramachandran on mirror neurons](https://www.youtube.com/embed/t0pwKzTRG5E)
 
-   <a name="week5-slide-links"></a>
-  Week five slide links:
+<a name="week5-slide-links"></a>
+Week five slide links:
   
- - [Lateral inhibition](https://www.youtube.com/embed/sItlLNhhiLg) example
- - [The case of H.M.](https://www.youtube.com/watch?v=Y0Od5DrdPA4)
- - [Clive Wearing - the man with no short-term memory](https://youtu.be/Vwigmktix2Y)
- - [Stroop effect](https://youtu.be/wRYme3xQ7PQ)
- - [Schema Theory Example](https://www.youtube.com/embed/o4HHCgFmkcI)
- - [Brain Rules review](https://www.youtube.com/embed/zqdfFdUvwS4)
- - [Slate article about Jaak Panksepp's](http://www.slate.com/articles/health_and_science/science/2009/08/seeking.html) theory of emotion
- - Temple Grandin - [Animals Make us Human](https://www.amazon.com/Animals-Make-Us-Human-Creating/dp/0547248237/ref=sr_1_1?ie=UTF8&qid=1475166970&sr=8-1&keywords=Animals+Make+us+Human)
- - [Barbara Tversky](http://www-psych.stanford.edu/~bt/diagrams/index.html) on graphics, language and diagram narratives
- - Compositional graphics - [emoticons of the future?](http://www.thevisuallinguist.com/2016/09/new-paper-meaning-above-head.html)
+- [Lateral inhibition](https://www.youtube.com/embed/sItlLNhhiLg) example
+- [The case of H.M.](https://www.youtube.com/watch?v=Y0Od5DrdPA4)
+- [Clive Wearing - the man with no short-term memory](https://youtu.be/Vwigmktix2Y)
+- [Stroop effect](https://youtu.be/wRYme3xQ7PQ)
+- [Schema Theory Example](https://www.youtube.com/embed/o4HHCgFmkcI)
+- [Brain Rules review](https://www.youtube.com/embed/zqdfFdUvwS4)
+- [Slate article about Jaak Panksepp's](http://www.slate.com/articles/health_and_science/science/2009/08/seeking.html) theory of emotion
+- Temple Grandin - [Animals Make us Human](https://www.amazon.com/Animals-Make-Us-Human-Creating/dp/0547248237/ref=sr_1_1?ie=UTF8&qid=1475166970&sr=8-1&keywords=Animals+Make+us+Human)
+- [Barbara Tversky](http://www-psych.stanford.edu/~bt/diagrams/index.html) on graphics, language and diagram narratives
+- Compositional graphics - [emoticons of the future?](http://www.thevisuallinguist.com/2016/09/new-paper-meaning-above-head.html)
 
- <a name="week6-slide-links"></a>
-  Week six slide links:
+<a name="week6-slide-links"></a>
+Week six slide links:
