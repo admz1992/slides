@@ -8,11 +8,11 @@ If you are looking at this page in GitHub, you will see a number of *html* files
 
 3. [HCI Research Methodologies - Ethnography and Survey](https://ub-idia640-2016.github.io/slides/week03.html) - Introduces two more very useful methodologies you will encounter in reading. ([slide links](#week3-slide-links))
 
-4. [How do we know what we see?](https://ub-idia640-2016.github.io/slides/week04.html) - Introduction to visual perception. Perception is de-centralized and driven by both bottom-up and top-down proecsses. ([slide links)(#week4-slide-links))
+4. [How do we know what we see?](https://ub-idia640-2016.github.io/slides/week04.html) - Introduction to visual perception. Perception is de-centralized and driven by both bottom-up and top-down proecsses. ([slide links](#week4-slide-links))
 
-5. [How do we know about things?](https://ub-idia640-2016.github.io/slides/week05.html) - Builds on the previous week and towards how we think in terms of concepts and associate information multimodally. We learn what role background knowledge plays in perception. ([slide links)(#week5-slide-links))
+5. [How do we know about things?](https://ub-idia640-2016.github.io/slides/week05.html) - Builds on the previous week and towards how we think in terms of concepts and associate information multimodally. We learn what role background knowledge plays in perception. ([slide links](#week5-slide-links))
 
-6. [How do we think?](https://ub-idia640-2016.github.io/slides/week06.html) Kahneman discusses the implication of two systems for thinking where one is fast and intuitive, and the other slow and thoughtful. ([slide links)(#week6-slide-links))
+6. [How do we think?](https://ub-idia640-2016.github.io/slides/week06.html) Kahneman discusses the implication of two systems for thinking where one is fast and intuitive, and the other slow and thoughtful. ([slide links](#week6-slide-links))
 
 <a name="week1-slide-links"></a>
 Week one slide links:
