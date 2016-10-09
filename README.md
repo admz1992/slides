@@ -14,6 +14,8 @@ If you are looking at this page in GitHub, you will see a number of *html* files
 
 6. [How do we think?](https://ub-idia640-2016.github.io/slides/week06.html) Kahneman discusses the implication of two systems for thinking where one is fast and intuitive, and the other slow and thoughtful. ([slide links](#week6-slide-links))
 
+7. [How do emotions affect belief?](https://ub-idia640-2016.github.io/slides/week07.html) Emotions and feelings play an important role in the shape of our beliefs and thoughts. ([slide links](#week7-slide-links))
+7.
 <a name="week1-slide-links"></a>
 Week one slide links:
 
@@ -42,7 +44,7 @@ Not mentioned, but a [great story of how three MIT students fooled the world of 
 
 <a name="week3-slide-links"></a>
 Week three slide links:
-  
+
 - [Susan Ettlinger](http://www.ted.com/speakers/susan_etlinger) - Smart, ethical, well-considered data. Interesting reports available from [her website](https://susanetlinger.com/research-reports/)
 - [Ellen Isaacs](https://www.youtube.com/watch?v=nV0jY5VgymI) on Ethnology
 - [Elizabeth Stokoe](https://www.youtube.com/watch?v=e-QbxjXDwXU) and the connection of Conversational Analysis to "Nudge"
@@ -54,7 +56,7 @@ Not mentioned, but relevant:
 
 <a name="week4-slide-links"></a>
 Week four slide links:
-  
+
 - Dale Purvis book - "[Brains: How they seem to work](https://www.amazon.com/Brains-They-Seem-Press-Science/dp/0137055099)"
 - [Monkey Business illusion](https://www.youtube.com/embed/IGQmdoK_ZfY)
 - [What cats taught us about perception](https://www.youtube.com/embed/RPv0a9ftu6Y)
@@ -72,7 +74,7 @@ Week four slide links:
 
 <a name="week5-slide-links"></a>
 Week five slide links:
-  
+
 - [Lateral inhibition](https://www.youtube.com/embed/sItlLNhhiLg) example
 - [The case of H.M.](https://www.youtube.com/watch?v=Y0Od5DrdPA4)
 - [Clive Wearing - the man with no short-term memory](https://youtu.be/Vwigmktix2Y)
@@ -86,3 +88,14 @@ Week five slide links:
 
 <a name="week6-slide-links"></a>
 Week six slide links:
+
+- [Pupillary dilation example](http://avik-ganguly.blogspot.com/2012/04/surprise-and-cognitive-workload-effect.html)
+- Damasio - "[An architecture for memory](https://drive.google.com/open?id=0B3SsgcqV1xSSb1RfVzJ0NHZVams)"
+- Reser - [Mental Continuity](http://www.cognitivemechanics.net/on_consciousness)
+- [Office experiment](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1686213/) ("honesty box") - effect of visual priming
+- Social understanding work of Fritz Heider and Mary-Ann Simmel -  [movie](https://www.youtube.com/embed/n9TWwG4SFWQ) and [article](http://blogs.scientificamerican.com/thoughtful-animal/animating-anthropomorphism-giving-minds-to-geometric-shapes-video/)
+- Facebook news - coherence, confidence, and [risk for confirmation bias](https://www.bloomberg.com/view/articles/2016-01-08/how-facebook-makes-us-dumber)
+- [Evil by design](http://evilbydesign.info/)
+
+<a name="week7-slide-links"></a>
+Week seven slide links:
