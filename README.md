@@ -15,7 +15,8 @@ If you are looking at this page in GitHub, you will see a number of *html* files
 6. [How do we think?](https://ub-idia640-2016.github.io/slides/week06.html) Kahneman discusses the implication of two systems for thinking where one is fast and intuitive, and the other slow and thoughtful. ([slide links](#week6-slide-links))
 
 7. [How do emotions affect belief?](https://ub-idia640-2016.github.io/slides/week07.html) Emotions and feelings play an important role in the shape of our beliefs and thoughts. ([slide links](#week7-slide-links))
-7.
+
+
 <a name="week1-slide-links"></a>
 Week one slide links:
 
