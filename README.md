@@ -2,6 +2,8 @@
 
 If you are looking at this page in GitHub, you will see a number of *html* files which comprise each week's presentation. These are actually **markdown** files and not html. Markdown is great, if you want to look at the slides as raw text and also see version changes. But if you are hoping to view them in presentation mode, you need to visit the web view accessible from links below.
 
+## Slides
+
 1. [Introduction](https://ub-idia640-2016.github.io/slides/week01.html) - What's this class about? ([slide links](#week1-slide-links))
 
 2. [HCI Research Methodologies - Experimentation) ](https://ub-idia640-2016.github.io/slides/week02.html) - Covers a range of methodologies, but focuses on how to read scientific papers. ([slide links](#week2-slide-links))
@@ -16,6 +18,7 @@ If you are looking at this page in GitHub, you will see a number of *html* files
 
 7. [How do emotions affect belief?](https://ub-idia640-2016.github.io/slides/week07.html) Emotions and feelings play an important role in the shape of our beliefs and thoughts. ([slide links](#week7-slide-links))
 
+## Slide links (references online)
 
 <a name="week1-slide-links"></a>
 Week one slide links:
