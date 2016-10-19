@@ -18,7 +18,7 @@ If you are looking at this page in GitHub, you will see a number of *html* files
 
 7. [How do emotions affect belief?](https://ub-idia640-2016.github.io/slides/week07.html) Emotions and feelings play an important role in the shape of our beliefs and thoughts. ([slide links](#week7-slide-links))
 
-7. [How do we understand?](https://ub-idia640-2016.github.io/slides/week08.html) Language is form of joint action and is, therefore, social. When we see it from this perspective, we can better account for processes concerned with the prevention and repair of errors in dialogue. ([slide links](#week8-slide-links))
+7. [How do we understand?](https://ub-idia640-2016.github.io/slides/week08.html) Language is form of joint action and is, therefore, social. When we see it from this perspective, we can better account for processes concerned with the prevention and repair of error in dialogue. ([slide links](#week8-slide-links))
 
 <hr>
 
