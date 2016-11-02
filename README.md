@@ -20,7 +20,7 @@ If you are looking at this page in GitHub, you will see a number of *html* files
 
 8. [How do we understand?](https://ub-idia640-2016.github.io/slides/week08.html) Language is form of joint action and is, therefore, social. When we see it from this perspective, we can better account for processes concerned with the prevention, detection and repair of error in dialogue. ([slide links](#week8-slide-links))
 
-9. [How do people make decisions when they are uncertain and why is framing choice so important?](https://ub-idia640-2016.github.io/slides/week09.html) ([slide links](#week9-slide-links))
+9. [How do people make decisions when they are uncertain?](https://ub-idia640-2016.github.io/slides/week09.html) People believe they have complete control over choices they make. This is surprisingly not the case. ([slide links](#week9-slide-links))
 
 <hr>
 
@@ -138,3 +138,17 @@ Week eight slide links:
 
 <a name="week9-slide-links"></a>
 Week nine slide links:
+
+- Moneyball clip - https://www.youtube.com/embed/pWgyy_rlmag
+- Johnson, E. J., & Goldstein, D. (2003). [Do defaults save lives?](https://www8.gsb.columbia.edu/sites/decisionsciences/files/files/Johnson_Defaults.pdf) Science, 302(5649), 1338-1339.
+- Kahneman, D., & Tversky, A. (1979). [Prospect theory: An analysis of decision under risk](https://www.princeton.edu/~kahneman/docs/Publications/prospect_theory.pdf). Econometrica: Journal of the econometric society, 263-291.
+- [Cognitive bias codex] (https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.aokr2wkoj)
+- Marketing Experiments. Does fear-based marketing work? 05/18/2016. Retrieved from: http://www.marketingexperiments.com/marketing-optimization/fear-based-messaging
+- Rolling Stones article [Why we're living in an age of fear](http://www.rollingstone.com/politics/features/why-were-living-in-the-age-of-fear-w443554)
+- Thaler, R. H., Sunstein, C. R., & Balz, J. P. (2014). [Choice architecture](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509). The behavioral foundations of public policy.
+- Tversky, A., & Kahneman, D. (1974). [Judgment under uncertainty: Heuristics and biases](http://psiexp.ss.uci.edu/research/teaching/Tversky_Kahneman_1974.pdf). Science. 1124-1131.
+- Cooper.com - [Combating availability bias](https://www.cooper.com/journal/2010/7/combating_availability_bias)
+- UX Magazine - [The three most powerful heuristics designers can use](https://uxmag.com/articles/the-3-most-powerful-heuristics-designers-can-use)
+- https://marketingsherpa.com - external case studies
+- Nielsen Norman Group - [Prospect theory and loss aversion: how users make decisions](https://www.nngroup.com/articles/prospect-theory/)
+- [A statistical review of Kahneman Thinking Fast and Slow](http://www.burns-stat.com/review-thinking-fast-slow-daniel-kahneman/)
