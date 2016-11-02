@@ -18,7 +18,9 @@ If you are looking at this page in GitHub, you will see a number of *html* files
 
 7. [How do emotions affect belief?](https://ub-idia640-2016.github.io/slides/week07.html) Emotions and feelings play an important role in the shape of our beliefs and thoughts. ([slide links](#week7-slide-links))
 
-7. [How do we understand?](https://ub-idia640-2016.github.io/slides/week08.html) Language is form of joint action and is, therefore, social. When we see it from this perspective, we can better account for processes concerned with the prevention and repair of error in dialogue. ([slide links](#week8-slide-links))
+8. [How do we understand?](https://ub-idia640-2016.github.io/slides/week08.html) Language is form of joint action and is, therefore, social. When we see it from this perspective, we can better account for processes concerned with the prevention, detection and repair of error in dialogue. ([slide links](#week8-slide-links))
+
+9. [How do people make decisions when they are uncertain and why is framing choice so important?](https://ub-idia640-2016.github.io/slides/week09.html) ([slide links](#week9-slide-links))
 
 <hr>
 
@@ -107,3 +109,32 @@ Week six slide links:
 
 <a name="week7-slide-links"></a>
 Week seven slide links:
+
+- Panksepp - [Tedx talk on affective neuroscience](Panksepp, https://youtu.be/65e2qScV_K8) and how it can help us solve problems like depression
+- [Innate cooperation](https://youtu.be/HEOyqNU6H-c) and [social inequity](https://www.youtube.com/watch?v=HL45pVdsRvE) in capuchin monkeys
+- NYT article on [using rats to trace the anatomy of fear](http://www.nytimes.com/1996/11/05/science/using-rats-to-trace-anatomy-of-fear-biology-of-emotion.html?_r=0)
+- Joseph Ledoux on [the amygdala in five minutes](https://www.youtube.com/embed/fDD5wvFMH6)
+- Charles Duhigg's [how habits work](http://charlesduhigg.com/how-habits-work/)
+- MIT research on [why old habits die hard](http://news.mit.edu/2005/habit)
+- Robert Fabricant IXDA 2009 Keynote "[Behavior is our medium](https://vimeo.com/3730382)"
+- NYT article on [Purity Balls](http://www.nytimes.com/2012/07/21/us/purity-balls-local-tradition-or-national-trend.html)
+
+<a name="week8-slide-links"></a>
+Week eight slide links:
+
+- George Lakoff (again) on [empathy and social cooperation](https://www.youtube.com/watch?v=T46bSyh0xc0)
+- [Eddie Murphy clip](https://www.youtube.com/embed/3YxXsQMAvWg) demonstrating non-verbal communication and joint action
+- Business insider article on [deceptive sponsor ads](http://www.businessinsider.com/how-deceptive-sponsored-news-articles-could-be-undermining-trusted-news-brands-even-with-a-disclosure-message-2016-3) as an example of framing
+- This is the paid ad mentioned in the article above: http://paidpost.nytimes.com/netflix/women-inmates-separate-but-not-equal.html?_r=0
+- Morphmaker video on [Goffman regions and audience segregation](https://youtu.be/OcFgCudciss?list=PLAZgQtqtqwF05EJW0CG3rMsE8jJrmA7BM)
+- Can you spot layering and footing changes in this video? https://www.youtube.com/embed/gO-xmi1JgnE
+- Article on [gaze as a signaling device in turn-taking](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0136905)
+- [Bohus example](http://slideplayer.com/slide/4812415/) of speech errors in a spoken dialogue system (third slide)
+- [Complex Starbucks order](https://www.youtube.com/embed/ZBdQplMyW) - example of information packaging and error prevention
+- Example of [great design from Starbucks](https://www.youtube.com/watch?v=ZBdQplMyWrs) to aid in error prevention
+- Short article on [routinizing the UI](http://ahiddendiscourse.com/blog/2013/05/17/routinizing-the-ui/)
+- [Banner ad design](http://www.marketingexperiments.com/website-optimization-transcripts/2011-09-07.pdf) (example of indexicality). [This site](http://www.marketingexperiments.com) has lots of other great examples.
+- Multimodal processing - example from [contextual recognition of head gestures](http://groups.csail.mit.edu/vision/vip/lmorency.html)
+
+<a name="week9-slide-links"></a>
+Week nine slide links:
